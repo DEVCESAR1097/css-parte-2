@@ -1,0 +1,28 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+input{
+    border: 2px solid red;
+    color: blue;
+}
+
+
+input::placeholder{
+    color: #ff1396;
+}
+
+p::first-line{
+    color:#ff1396;
+}
+
+a::before{
+    content: "🧑🏻‍💻"
+}
+
+a::after{
+    content: "🚀"
+}

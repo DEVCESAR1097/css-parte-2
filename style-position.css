@@ -1,0 +1,25 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    width: 200vw;
+    height: 200vh;
+}
+
+.div-avo{
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+   
+}
+.div-pai{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+}
+.div-filho{
+    background-color: black;
+    width: 75px;
+    height: 75px;
+}
